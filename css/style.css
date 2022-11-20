@@ -1,0 +1,19 @@
+.a1{
+    min-height:750px;
+    width: 100%;
+  
+    background-image: url('../image/banner1.jpg');
+}
+.round{
+    height:50px;
+    width: 50px;
+    border-radius:50%;
+    color: white;
+    border:10px solid lightgray;
+    background-color: red;
+    text-align: center;
+    margin-top: 8px;
+    margin-left:8px; 
+
+}
+
